@@ -1,0 +1,50 @@
+{
+  "name": "@podium/eslint-config",
+  "version": "1.0.0",
+  "description": "Shared ESLint config for Podium modules",
+  "type": "module",
+  "exports": {
+    ".": {
+      "default": "./lib/default.js"
+    }
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/podium-lib/eslint-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/podium-lib/eslint-config/issues"
+  },
+  "homepage": "https://github.com/podium-lib/eslint-config#readme",
+  "scripts": {
+    "clean": "rimraf node_modules types",
+    "lint": "eslint .",
+    "lint:fix": "npm run lint -- --fix"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 9"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-prettier": "5.2.1",
+    "globals": "15.9.0"
+  },
+  "devDependencies": {
+    "eslint": "9.8.0",
+    "prettier": "3.3.3",
+    "rimraf": "6.0.1",
+    "semantic-release": "24.0.0"
+  }
+}
