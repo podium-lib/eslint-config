@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/podium-lib/eslint-config/compare/v1.0.3...v1.0.4) (2024-12-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency globals to v15.13.0 ([#10](https://github.com/podium-lib/eslint-config/issues/10)) ([d781e0f](https://github.com/podium-lib/eslint-config/commit/d781e0f8762acdcb090b1d3fcf9e09f2a4b913fd))
+
 ## [1.0.3](https://github.com/podium-lib/eslint-config/compare/v1.0.2...v1.0.3) (2024-11-04)
 
 
