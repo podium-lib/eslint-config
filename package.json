@@ -1,6 +1,6 @@
 {
   "name": "@podium/eslint-config",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Shared ESLint config for Podium modules",
   "type": "module",
   "exports": {
