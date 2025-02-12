@@ -39,7 +39,7 @@
   "dependencies": {
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-prettier": "5.2.3",
-    "globals": "15.14.0"
+    "globals": "15.15.0"
   },
   "devDependencies": {
     "@podium/semantic-release-config": "2.0.0",
