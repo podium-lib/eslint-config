@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/podium-lib/eslint-config/compare/v1.0.8...v1.0.9) (2025-03-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-prettier to v5.2.4 ([#22](https://github.com/podium-lib/eslint-config/issues/22)) ([4170da6](https://github.com/podium-lib/eslint-config/commit/4170da604db64d3dbd3d88cee9b923a878285851))
+
 ## [1.0.8](https://github.com/podium-lib/eslint-config/compare/v1.0.7...v1.0.8) (2025-02-12)
 
 
