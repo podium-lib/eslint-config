@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "eslint-config-prettier": "9.1.0",
-    "eslint-plugin-prettier": "5.2.4",
+    "eslint-plugin-prettier": "5.2.5",
     "globals": "15.15.0"
   },
   "devDependencies": {
