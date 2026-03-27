@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/podium-lib/eslint-config/compare/v2.0.1...v2.0.2) (2026-03-27)
+
+
+### Bug Fixes
+
+* allow static regex in test assertions ([839eed5](https://github.com/podium-lib/eslint-config/commit/839eed5d073134df1c1b0a1091ef2dd25c8e8931))
+
 ## [2.0.1](https://github.com/podium-lib/eslint-config/compare/v2.0.0...v2.0.1) (2026-03-27)
 
 
