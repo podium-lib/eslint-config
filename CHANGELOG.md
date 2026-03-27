@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/podium-lib/eslint-config/compare/v1.0.21...v2.0.0) (2026-03-27)
+
+
+### Bug Fixes
+
+* adopt e18e eslint plugin ([#59](https://github.com/podium-lib/eslint-config/issues/59)) ([be78454](https://github.com/podium-lib/eslint-config/commit/be784542e6360b7796fcba4a0b49bb1e30432e51))
+
+
+### BREAKING CHANGES
+
+* introduces new rules from the @e18e/eslint-plugin
+
 ## [1.0.21](https://github.com/podium-lib/eslint-config/compare/v1.0.20...v1.0.21) (2026-01-14)
 
 
