@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/podium-lib/eslint-config/compare/v2.0.3...v2.0.4) (2026-04-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @e18e/eslint-plugin to v0.4.1 ([#63](https://github.com/podium-lib/eslint-config/issues/63)) ([2504e8b](https://github.com/podium-lib/eslint-config/commit/2504e8bb5121a4e25374ebbbf46d1560e232ac36))
+
 ## [2.0.3](https://github.com/podium-lib/eslint-config/compare/v2.0.2...v2.0.3) (2026-04-12)
 
 
