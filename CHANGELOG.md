@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/podium-lib/eslint-config/compare/v2.0.4...v2.0.5) (2026-05-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency globals to v17.6.0 ([#66](https://github.com/podium-lib/eslint-config/issues/66)) ([c4579c5](https://github.com/podium-lib/eslint-config/commit/c4579c542c5506cb42761a0645a15394c105e2c2))
+
 ## [2.0.4](https://github.com/podium-lib/eslint-config/compare/v2.0.3...v2.0.4) (2026-04-28)
 
 
