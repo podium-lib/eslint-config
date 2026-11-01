@@ -43,7 +43,7 @@
     "globals": "17.13.0"
   },
   "devDependencies": {
-    "@podium/semantic-release-config": "3.0.7",
+    "@podium/semantic-release-config": "3.0.8",
     "eslint": "9.39.5",
     "prettier": "3.9.6",
     "rimraf": "6.1.3",
